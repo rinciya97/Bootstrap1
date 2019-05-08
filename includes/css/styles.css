@@ -131,6 +131,11 @@ body
 {
   font-family: 'Belleza';
 }
+article
+{
+   font-size:22px;
+}
+
 .tab-content h4
 {
     color: blue;
@@ -152,6 +157,10 @@ body
 h3
 {
 text-transform: uppercase;
+}
+#image-col
+{
+padding-bottom:10px;
 }
 
 
